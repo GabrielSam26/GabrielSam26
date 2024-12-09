@@ -7,9 +7,9 @@ Desenvolvedor e Web Designer
 Aqui você encontrará uma coleção diversificada de projetos que refletem minha jornada no desenvolvimento de software, automação e soluções criativas. Meu foco principal é criar aplicações eficientes, amigáveis e inovadoras.
 
 * 🌍  I'm based in I
-* ✉️  You can contact me at [samtestesoparaisso@gmail.co](mailto:samtestesoparaisso@gmail.com)
-* 🧠  I'm learning R
-* 🤝  I'm open to collaborating on p
+* ✉️  Voce pode me contatar via [samtestesoparaisso@gmail.co](mailto:samtestesoparaisso@gmail.com)
+* 🧠  No momento estou focado em React-Native
+* 🤝  Estou disponivel para colaboração em projetos inovadores, e projetos amigaveis.
 
 ### Skills
 
